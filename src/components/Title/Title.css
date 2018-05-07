@@ -1,0 +1,25 @@
+.jumbotron {
+    background-image: url(../../img/background.jpg);
+    width: 100%;
+    min-height: 200px;
+    text-align: center;
+    /* padding: 10px; */
+}
+
+.title {
+    text-align: center;
+}
+
+h1 {
+    text-decoration: none;
+    color: rgb(234, 223, 65);
+    font-weight: 900;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+.scores {
+    float: right;
+}
